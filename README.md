@@ -10,7 +10,7 @@
 
 The datasets used in the paper can be downloaded from the following locations:
 
-[ISIC]([https://challenge.isic-archive.com/data/#2018](#2018))
+[ISIC](https://challenge.isic-archive.com/data/#2018)
 
 The training data should be placed in ``` inputs/``` directory .
 
