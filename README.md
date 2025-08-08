@@ -11,8 +11,11 @@
 The datasets used in the paper can be downloaded from the following locations:
 
 [ISIC(2016-2018)](https://challenge.isic-archive.com/data/#2018)
+
 [PH2](https://www.fc.up.pt/addi/ph2%20database.html)
-[2018 DSB]([https://www.fc.up.pt/addi/ph2%20database.html](https://www.kaggle.com/c/data-science-bowl-2018))
+
+[2018 DSB](https://www.kaggle.com/c/data-science-bowl-2018)
+
 [BUSI](https://github.com/Xiaoqi-Zhao-DLUT/MSNet-M2SNet)
 
 
