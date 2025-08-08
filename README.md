@@ -16,7 +16,7 @@ The datasets used in the paper can be downloaded from the following locations:
 
 [2018 DSB](https://www.kaggle.com/c/data-science-bowl-2018)
 
-[BUSI](https://github.com/Xiaoqi-Zhao-DLUT/MSNet-M2SNet)
+[BUSI](https://scholar.cu.edu.eg/?q=afahmy/pages/dataset)
 
 
 The training data should be placed in ``` inputs/``` directory .
